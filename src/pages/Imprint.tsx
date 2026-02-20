@@ -14,7 +14,6 @@ const Imprint = () => {
 
         <div>
           <h2 className="font-heading text-xl font-semibold mb-2">Contact</h2>
-          <p>Phone: +49(0)15784006025</p>
           <p>
             Email:{" "}
             <a
